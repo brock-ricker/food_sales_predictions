@@ -1,2 +1,2 @@
-# food_sales_predictions
+# Food_Sales_Predictions
 Predicts future prices of food items
