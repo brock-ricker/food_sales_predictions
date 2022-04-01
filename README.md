@@ -7,20 +7,7 @@ The data set used for this project is 8523 rows, and 12 columns. Item_Outlet_Sal
 
 Summary of the data:
 
-#   Column                     Non-Null Count  Dtype  
----  ------                     --------------  -----  
-0   Item_Identifier            8523 non-null   object 
-1   Item_Weight                7060 non-null   float64
-2   Item_Fat_Content           8523 non-null   object 
-3   Item_Visibility            8523 non-null   float64
-4   Item_Type                  8523 non-null   object 
-5   Item_MRP                   8523 non-null   float64
-6   Outlet_Identifier          8523 non-null   object 
-7   Outlet_Establishment_Year  8523 non-null   int64  
-8   Outlet_Size                6113 non-null   object 
-9   Outlet_Location_Type       8523 non-null   object 
-10  Outlet_Type                8523 non-null   object 
-11  Item_Outlet_Sales          8523 non-null   float64
+![image](https://user-images.githubusercontent.com/99829862/161204948-89263179-602f-4287-87f2-cdcd37b3d6a9.png)
 
 Item prices range from $31 to $267, accross 10 store locations in 3 different sizes, and 4 outlet type categories.
 
