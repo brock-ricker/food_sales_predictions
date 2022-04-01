@@ -27,13 +27,13 @@ The Model is built with a standard 75/25 train test split. The decision tree reg
 The fitting metrics for the final model as are follows:
   
 Training Scores for Decision Tree
-R2: 0.6039 
-MAE: 762.76 
-MSE: 1,172,230.06 
-RMSE: 1,082.70
+-R2: 0.6039 
+-MAE: 762.76 
+-MSE: 1,172,230.06 
+-RMSE: 1,082.70
 
 Test Scores for Decision Tree
-R2: 0.5950 
-MAE: 737.63 
-MSE: 1,117,324.23 
-RMSE: 1,057.04
+-R2: 0.5950 
+-MAE: 737.63 
+-MSE: 1,117,324.23 
+-RMSE: 1,057.04
